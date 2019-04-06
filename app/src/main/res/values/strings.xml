@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Creating an MVC (Model-View-Controller)
+	 framework for Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_button_name">New Task</string>
+</resources>
